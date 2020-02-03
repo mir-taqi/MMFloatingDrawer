@@ -21,8 +21,7 @@ Pod::Spec.new do |s|
   s.description      = <<-DESC
 "A convenience cocoa pod that allow developer to present side menu drawer."
                        DESC
- s.screenshot = 'https://drive.google.com/file/d/1HEJRX6M9IPG7Q8qtVCUW_4Gzvdut46w4/view?usp=sharing'
-  s.homepage         = 'https://github.com/mir-taqi/MMFloatingDrawer'
+ s.screenshot = 'https://www.dropbox.com/s/3i7d2j9t8olpxxj/Simulator%20Screen%20Shot%20-%20iPhone%2011%20Pro%20Max%20-%202020-02-03%20at%2014.40.42.png'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'mir-taqi' => 'taqi1435@gmail.com' }
