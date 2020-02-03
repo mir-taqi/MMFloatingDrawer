@@ -27,7 +27,7 @@ Pod::Spec.new do |s|
   s.author           = { 'mir-taqi' => 'taqi1435@gmail.com' }
   s.source           = { :git => 'https://github.com/mir-taqi/MMFloatingDrawer.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
-
+  spec.screenshot = 'https://www.dropbox.com/s/3i7d2j9t8olpxxj/Simulator%20Screen%20Shot%20-%20iPhone%2011%20Pro%20Max%20-%202020-02-03%20at%2014.40.42.png?dl=0'
   s.ios.deployment_target = '8.0'
 
   s.source_files = 'MMFloatingDrawer/Classes/**/*'
