@@ -1,0 +1,6 @@
+framework module MMFloatingDrawer {
+  umbrella header "MMFloatingDrawer-umbrella.h"
+
+  export *
+  module * { export * }
+}

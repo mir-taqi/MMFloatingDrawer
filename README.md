@@ -22,7 +22,7 @@ pod 'MMFloatingDrawer'
 
 ## Author
 
-mir-taqi, mtaqi@sejeltech.com
+mir-taqi
 
 ## License
 

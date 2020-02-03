@@ -1,0 +1,6 @@
+framework module Pods_MMFloatingDrawer_Tests {
+  umbrella header "Pods-MMFloatingDrawer_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

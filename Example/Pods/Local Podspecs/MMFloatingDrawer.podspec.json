@@ -1,0 +1,22 @@
+{
+  "name": "MMFloatingDrawer",
+  "version": "0.1.0",
+  "summary": "A short description of MMFloatingDrawer.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/mir-taqi/MMFloatingDrawer",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "mir-taqi": "mtaqi@sejeltech.com"
+  },
+  "source": {
+    "git": "https://github.com/mir-taqi/MMFloatingDrawer.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "MMFloatingDrawer/Classes/**/*"
+}

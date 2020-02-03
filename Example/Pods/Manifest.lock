@@ -1,0 +1,16 @@
+PODS:
+  - MMFloatingDrawer (0.1.0)
+
+DEPENDENCIES:
+  - MMFloatingDrawer (from `../`)
+
+EXTERNAL SOURCES:
+  MMFloatingDrawer:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  MMFloatingDrawer: b56cbceac3524ed4c1aa4880eac84c9ec1ee272f
+
+PODFILE CHECKSUM: 4a7e84ef7917ff77ed1c447e007a5ff288cb850f
+
+COCOAPODS: 1.8.4
